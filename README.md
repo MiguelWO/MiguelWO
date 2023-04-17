@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Docker and AWS**
 
-- 👨‍💻 All of my projects are available at [portafolio.www](portafolio.www)
+<!-- - 👨‍💻 All of my projects are available at [portafolio.www](portafolio.www) -->
 
 - 📫 How to reach me **wmiguel999@gmail.com**
 
