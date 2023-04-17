@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel Wagner</h1>
-<h3 align="center">A machine lerning enginieer in formation</h3>
+<h3 align="center">A Machine Learning Engineer in formation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelwo&label=Profile%20views&color=0e75b6&style=flat" alt="miguelwo" /> </p>
 
