@@ -1,3 +1,3 @@
-<div style="width:480px">
-  <iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/qvEYpfcWXunasunNvX/video" width="480"></iframe>
+<div id="header" align="center">
+  <img src="https://giphy.com/clips/southpark-south-park-episode-3-season-13-qvEYpfcWXunasunNvX" width="100"/>
 </div>
