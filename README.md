@@ -87,12 +87,6 @@ Previously: Data Scientist at **Sofka Technologies** (multi-agent systems, LangG
 
 <div align="center">
 
-<img src="https://github.com/MiguelWO/MiguelWO/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/MiguelWO/MiguelWO/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
-</div>
-
----
-
-<div align="center">
-<sub>Open to freelance · AI agents · Multi-agent systems · B2B automation</sub>
 </div>
